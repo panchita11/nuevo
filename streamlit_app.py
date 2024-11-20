@@ -1,8 +1,5 @@
 import streamlit as st
-import numpy as np
-import matplotlib.pyplot as plt
-import pandas as pd
-import seaborn as sns
+
 st.title("HISTIDINA")
 st.sidebar.title("Menú de navegación")
 st.sidebar.header("Secciones disponibles")
